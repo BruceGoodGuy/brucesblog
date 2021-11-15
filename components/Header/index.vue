@@ -31,7 +31,7 @@
             <li><a href="#blog">{{ $t("news") }}</a></li>
             <li><a href="#contact">{{ $t("contact") }}</a></li> -->
             <li>
-              <p @click="() => changeLanguage($t('lang'))">
+              <p class="color-white" @click="() => changeLanguage($t('lang'))">
                 {{ $t("lang") }}
               </p>
             </li>
@@ -392,15 +392,15 @@
         <div class="copyright">
           <div class="social">
             <ul>
-              <!-- <li>
+              <li>
                 <a
-                  href="#"
+                  href="https://github.com/BruceGoodGuy"
                 ><img
-                  src="svg/social/twitter.svg"
+                  src="svg/social/github.svg"
                   alt=""
                   class="fn__svg"
                 ></a>
-              </li> -->
+              </li>
               <li>
                 <a
                   href="https://www.facebook.com/khoauth/"
@@ -441,7 +441,7 @@
           </div>
           <div class="desc">
             <p>
-              © 2021 Bruce<br> {{ $t('web.onworking') }}
+              © 2021 Bruce
             </p>
           </div>
         </div>

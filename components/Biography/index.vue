@@ -120,25 +120,103 @@
                   <li>
                     <div class="item">
                       <div class="item_top">
-                        <h5>{{ $t('systemexe') }}</h5>
+                        <h3>{{ $t('systemexe') }}</h3>
                         <span>{{ $t('systemexe.time') }}</span>
                       </div>
                       <h3>{{ $t('systemexe.level') }}</h3>
                       <p>
                         {{ $t('systemexe.bio') }}
                       </p>
+                      <hr>
+                      <p>{{ $t('feature.project') }}</p>
+                      <b>Beauty Navi</b>
+                      <p>{{ $t('bn.bio') }}</p>
+                      <p>{{ $t('size') }} 10 {{ $t('members') }}</p>
+                      <p>{{ $t('technology') }}: Laravel 7, jQuery, PostgreSQL</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (FrontEnd, Backend, {{ $t('database') }})</p>
+                      <br>
+                      <b>Droom - Mypage</b>
+                      <p>{{ $t('bd.bio') }}</p>
+                      <p>{{ $t('technology') }}: Laravel 8, angular 7, MySQL</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (Front-End, Back-End, {{ $t('database') }})</p>
                     </div>
                   </li>
                   <li>
                     <div class="item">
                       <div class="item_top">
-                        <h5>{{ $t('tma') }}</h5>
+                        <h3>Freelancer</h3>
+                        <span>{{ $t('systemexe.time') }}</span>
+                      </div>
+                      <h3>{{ $t('systemexe.level') }}</h3>
+                      <hr>
+                      <p>{{ $t('feature.project') }}</p>
+                      <b>Hokennavi</b>
+                      <p>{{ $t('bd.manage') }}</p>
+                      <p>{{ $t('size') }} 1 {{ $t('member') }}</p>
+                      <p>{{ $t('link') }} https://www.hokennavi.jp/</p>
+                      <p>{{ $t('technology') }}: Laravel 8, Vue.js</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (Front-End, Back-End, {{ $t('database') }})</p>
+                      <br>
+                      <b>Utop</b>
+                      <p>{{ $t('link') }} https://utop.vn/</p>
+                      <p>{{ $t('utop') }}</p>
+                      <p>{{ $t('size') }} 2 {{ $t('members') }}</p>
+                      <p>{{ $t('technology') }}: Laravel 7, jQuery</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (FrontEnd, Backend)</p>
+                      <br>
+                      <b>Skillive</b>
+                      <p>{{ $t('link') }} https://skillive.com/</p>
+                      <p>{{ $t('skillives') }}</p>
+                      <p>{{ $t('size') }} 2 {{ $t('members') }}</p>
+                      <p>{{ $t('technology') }}: Laravel 7, jQuery, mySQL</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (FrontEnd, Backend, {{ $t('database') }})</p>
+                      <br>
+                      <b>fuzuki-law</b>
+                      <p>{{ $t('survey') }}</p>
+                      <p>{{ $t('size') }} 1 {{ $t('member') }}</p>
+                      <p>{{ $t('link') }} http://fuzuki-law.com/fchat/</p>
+                      <p>{{ $t('technology') }}: Laravel 8, Google Sheet API, jQuery</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (Front-End, Back-End, {{ $t('database') }})</p>
+                      <br>
+                      <b>Bruce'page</b>
+                      <p>{{ $t('br') }}</p>
+                      <p>{{ $t('size') }} 1 {{ $t('member') }}</p>
+                      <p>{{ $t('link') }} https://brucespage.herokuapp.com/</p>
+                      <p>{{ $t('technology') }}: Nuxt.js</p>
+                      <p>GitHub: https://github.com/BruceGoodGuy/brucesblog</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }}</p>
+                      <br>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="item">
+                      <div class="item_top">
+                        <h3>{{ $t('tma') }}</h3>
                         <span>{{ $t('tma.time') }}</span>
                       </div>
                       <h3>{{ $t('tma.level') }}</h3>
                       <p>
                         {{ $t('tma.bio') }}
                       </p>
+                      <hr>
+                      <p>{{ $t('feature.project') }}</p>
+                      <b>MoveMind Admin</b>
+                      <p>{{ $t('gym') }}</p>
+                      <p>{{ $t('size') }} 6 {{ $t('members') }}</p>
+                      <p>{{ $t('technology') }}: Vue.js, Laravel</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (Front-End, Back-End, {{ $t('database') }})</p>
+                      <br>
+                      <b>KANDY</b>
+                      <p>{{ $t('ip') }}</p>
+                      <p>{{ $t('size') }} 10 {{ $t('members') }}</p>
+                      <p>{{ $t('technology') }}: PHP, AngularJS</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (Backend)</p>
+                      <br>
+                      <b>Hudson</b>
+                      <p>{{ $t('hudson') }}</p>
+                      <p>{{ $t('size') }} 10 {{ $t('members') }}</p>
+                      <p>{{ $t('technology') }}: React, AWS, Node.js</p>
+                      <p>{{ $t('role') }}: {{ $t('developer') }} (Front-End, Back-End, {{ $t('database') }})</p>
                     </div>
                   </li>
                 </ul>

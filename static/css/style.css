@@ -1979,6 +1979,9 @@ section{
 	        transition: all .3s ease;
 }
 
+.color-white{
+	color: white!important;
+}
 
 
 

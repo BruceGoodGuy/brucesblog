@@ -24,7 +24,7 @@
                 <h3>
                   <a
                     class="fn__link zoom"
-                    href="img/portfolio/1.jpg"
+                    href="img/portfolio/1.png"
                     data-title="Skillive"
                   >Skillive.com</a>
                 </h3>
@@ -35,11 +35,11 @@
               <div class="img_holder">
                 <a
                   class="zoom"
-                  href="img/portfolio/1.jpg"
+                  href="img/portfolio/1.png"
                   data-title="Skillive"
                 />
                 <img src="img/thumb/square.jpg" alt="">
-                <div class="abs_img" data-bg-img="img/portfolio/1.jpg" />
+                <div class="abs_img" data-bg-img="img/portfolio/1.png" />
               </div>
             </div>
           </li>
@@ -76,7 +76,7 @@
                 <h3>
                   <a
                     class="fn__link zoom"
-                    href="img/portfolio/2.jpg"
+                    href="img/portfolio/2.png"
                     data-title="fuzuki-law.com/fchat/"
                   >fuzuki-law.com/fchat/</a>
                 </h3>
@@ -87,11 +87,11 @@
               <div class="img_holder">
                 <a
                   class="zoom"
-                  href="img/portfolio/2.jpg"
+                  href="img/portfolio/2.png"
                   data-title="fuzuki-law.com/fchat/"
                 />
                 <img src="img/thumb/square.jpg" alt="">
-                <div class="abs_img" data-bg-img="img/portfolio/2.jpg" />
+                <div class="abs_img" data-bg-img="img/portfolio/2.png" />
               </div>
             </div>
           </li>
