@@ -17,13 +17,13 @@
 
     <div class="portfolio_list">
       <div class="container">
-        <ul class="fn__masonry gallery_zoom">
+        <ul class="fn__masonry">
           <li class="masonry_in">
             <div class="item">
               <div class="title_holder">
                 <h3>
                   <a
-                    class="fn__link zoom"
+                    class="zoom"
                     href="img/portfolio/1.png"
                     data-title="Skillive"
                   >Skillive.com</a>
@@ -38,7 +38,7 @@
                   href="img/portfolio/1.png"
                   data-title="Skillive"
                 />
-                <img src="img/thumb/square.jpg" alt="">
+                <img src="img/portfolio/1.png" alt="">
                 <div class="abs_img" data-bg-img="img/portfolio/1.png" />
               </div>
             </div>
@@ -49,23 +49,23 @@
               <div class="title_holder">
                 <h3>
                   <a
-                    class="fn__link zoom"
-                    href="img/portfolio/5.jpg"
-                    data-title="Skillive"
-                  >This Page</a>
+                    class="zoom"
+                    href="img/portfolio/4.png"
+                    data-title="Beauty navi"
+                  >Beauty navi</a>
                 </h3>
-                <p>{{ $t('this.work') }}</p>
-                <p>{{ $t('this.tech') }}</p>
+                <p>{{ $t('bn.work') }}</p>
+                <p>{{ $t('bn.tech') }}</p>
               </div>
 
               <div class="img_holder">
                 <a
                   class="zoom"
-                  href="img/portfolio/5.jpg"
-                  data-title="Skillive"
+                  href="img/portfolio/4.png"
+                  data-title="Beauty navi"
                 />
-                <img src="img/thumb/square.jpg" alt="">
-                <div class="abs_img" data-bg-img="img/portfolio/5.jpg" />
+                <img src="img/portfolio/4.png" alt="">
+                <div class="abs_img" data-bg-img="img/portfolio/4.png" />
               </div>
             </div>
           </li>
@@ -75,7 +75,32 @@
               <div class="title_holder">
                 <h3>
                   <a
-                    class="fn__link zoom"
+                    class="zoom"
+                    href="img/portfolio/5.png"
+                    data-title="Skillive"
+                  >This Page</a>
+                </h3>
+                <p>{{ $t('this.tech') }}</p>
+              </div>
+
+              <div class="img_holder">
+                <a
+                  class="zoom"
+                  href="img/portfolio/5.png"
+                  data-title="Skillive"
+                />
+                <img src="img/portfolio/5.png" alt="">
+                <div class="abs_img" data-bg-img="img/portfolio/5.png" />
+              </div>
+            </div>
+          </li>
+
+          <li class="masonry_in">
+            <div class="item">
+              <div class="title_holder">
+                <h3>
+                  <a
+                    class="zoom"
                     href="img/portfolio/2.png"
                     data-title="fuzuki-law.com/fchat/"
                   >fuzuki-law.com/fchat/</a>
@@ -90,7 +115,7 @@
                   href="img/portfolio/2.png"
                   data-title="fuzuki-law.com/fchat/"
                 />
-                <img src="img/thumb/square.jpg" alt="">
+                <img src="img/portfolio/2.png" alt="">
                 <div class="abs_img" data-bg-img="img/portfolio/2.png" />
               </div>
             </div>
@@ -101,7 +126,7 @@
               <div class="title_holder">
                 <h3>
                   <a
-                    class="fn__link zoom"
+                    class="zoom"
                     href="img/portfolio/3.jpg"
                     data-title="Hudson"
                   >Hudson</a>
@@ -116,34 +141,8 @@
                   href="img/portfolio/3.jpg"
                   data-title="Hudson"
                 />
-                <img src="img/thumb/square.jpg" alt="">
+                <img src="img/portfolio/3.jpg" alt="">
                 <div class="abs_img" data-bg-img="img/portfolio/3.jpg" />
-              </div>
-            </div>
-          </li>
-
-          <li class="masonry_in">
-            <div class="item">
-              <div class="title_holder">
-                <h3>
-                  <a
-                    class="fn__link zoom"
-                    href="img/portfolio/4.jpg"
-                    data-title="Beauty navi"
-                  >Beauty navi</a>
-                </h3>
-                <p>{{ $t('bn.work') }}</p>
-                <p>{{ $t('bn.tech') }}</p>
-              </div>
-
-              <div class="img_holder">
-                <a
-                  class="zoom"
-                  href="img/portfolio/4.jpg"
-                  data-title="Beauty navi"
-                />
-                <img src="img/thumb/square.jpg" alt="">
-                <div class="abs_img" data-bg-img="img/portfolio/4.jpg" />
               </div>
             </div>
           </li>

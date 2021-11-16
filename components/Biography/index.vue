@@ -77,7 +77,7 @@
     <!-- /Info Items -->
 
     <!-- Download CV Button -->
-    <div class="fn_cs_cv_btn">
+    <!-- <div class="fn_cs_cv_btn">
       <div class="container">
         <span class="line top_hover" />
         <span class="line bottom_hover" />
@@ -91,7 +91,7 @@
           <span>{{ $t('downloadCV') }}</span>
         </a>
       </div>
-    </div>
+    </div> -->
     <!-- /Download CV Button -->
 
     <!-- Tabs Shortcode -->
