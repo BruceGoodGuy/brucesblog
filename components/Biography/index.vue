@@ -77,13 +77,13 @@
     <!-- /Info Items -->
 
     <!-- Download CV Button -->
-    <!-- <div class="fn_cs_cv_btn">
+    <div class="fn_cs_cv_btn">
       <div class="container">
         <span class="line top_hover" />
         <span class="line bottom_hover" />
         <span class="line top" />
         <span class="line bottom" />
-        <a href="img/cv.jpg" download>
+        <a href="cv/KhoaNguyenResume.pdf" download>
           <span class="icon">
             <img src="svg/inbox.svg" alt="" class="fn__svg">
             <img src="svg/arrow.svg" alt="" class="fn__svg arrow">
@@ -91,7 +91,7 @@
           <span>{{ $t('downloadCV') }}</span>
         </a>
       </div>
-    </div> -->
+    </div>
     <!-- /Download CV Button -->
 
     <!-- Tabs Shortcode -->
